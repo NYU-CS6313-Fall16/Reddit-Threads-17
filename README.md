@@ -33,9 +33,9 @@ We build a modified treemap to display the threads of Reddit. Our modified treem
 
 <b>Here is our sreenshot of project</b>
 
-![Image of First Level](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt Image of First Level](https://github.com/NYU-CS6313-Fall16/Reddit-Threads-17/blob/master/png/Hot1.png?raw=true)
 
-![Image of Second Level](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt Image of Second Level](https://github.com/NYU-CS6313-Fall16/Reddit-Threads-17/blob/master/png/Top2.png?raw=true)
 
 ![Image of Third Level](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
