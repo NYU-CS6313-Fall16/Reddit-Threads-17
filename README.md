@@ -47,7 +47,7 @@ A heroku live app can be found here [link](http://redditmonitor17.herokuapp.com/
 
 You may need to wait for a moment because the server is extracting data from Reddit
 
-A final project report can be found here [link]("")
+A final project report can be found here [link]("https://github.com/NYU-CS6313-Fall16/Reddit-Threads-17/blob/master/IVProjectFinalReport.pdf")
 
 
 
